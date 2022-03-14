@@ -111,5 +111,5 @@ def specialKeyPressed(tecla, x, y):
         print ("BAIXO")
 
 
-if __name__ == '__main__':
-    tx.main(DrawGLScene, keyPressed, specialKeyPressed)
+
+tx.main(DrawGLScene, keyPressed, specialKeyPressed)
